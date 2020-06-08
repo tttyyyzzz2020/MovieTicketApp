@@ -1,4 +1,5 @@
-## 
+## 项目说明
+该项目为本人学习swiftui所做，但非本人原创。
 
 ## 原作者网址：
 https://liquidcoder.com/swiftui-movie-tickets-app-design/
